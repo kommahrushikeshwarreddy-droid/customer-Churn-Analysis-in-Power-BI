@@ -1,1 +1,1 @@
-Customer Churn Analysis in Power BI
+Customer Churn Analysis in Power BI Developed a Customer Churn Analysis dashboard using Power BI to identify factors influencing customer attrition. Performed data cleaning, transformation, and visualization to analyze churn rate by demographics, contract type, and monthly charges. Created interactive dashboards and KPIs to help and improve customer retention strategies. 📊
